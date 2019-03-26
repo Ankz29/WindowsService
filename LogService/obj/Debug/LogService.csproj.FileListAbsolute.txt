@@ -1,0 +1,8 @@
+D:\Practice\MVC Practice Programs\LogService\LogService\bin\Debug\LogService.exe.config
+D:\Practice\MVC Practice Programs\LogService\LogService\bin\Debug\LogService.exe
+D:\Practice\MVC Practice Programs\LogService\LogService\bin\Debug\LogService.pdb
+D:\Practice\MVC Practice Programs\LogService\LogService\obj\Debug\LogService.csprojResolveAssemblyReference.cache
+D:\Practice\MVC Practice Programs\LogService\LogService\obj\Debug\LogService.ProjectInstaller.resources
+D:\Practice\MVC Practice Programs\LogService\LogService\obj\Debug\LogService.csproj.GenerateResource.Cache
+D:\Practice\MVC Practice Programs\LogService\LogService\obj\Debug\LogService.exe
+D:\Practice\MVC Practice Programs\LogService\LogService\obj\Debug\LogService.pdb
